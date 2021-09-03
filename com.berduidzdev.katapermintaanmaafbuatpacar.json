@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -33,9 +33,9 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "202398709",
+"STARAPPID" : "201906721",
 
-"ADMOB_BANNER" : "ca-app-pub-8665352681989203/4795387608",
+"ADMOB_BANNER" : "ca-app-pub-8665352681989203/6670958475",
 "ADMOB_INTER" : "",
 "ADMOB_NATIV" : "",
 
@@ -55,7 +55,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4196031",
+"UNITY_GAME_ID" : "4293831",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
@@ -72,7 +72,7 @@
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.febrianazhar.berbagaijenisdaundanmanfaatnya"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.berduidzdev.katapermintaanmaafbuatpacar"
 
   }
 }

@@ -17,10 +17,10 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 ",
 
 "pengaturan_iklan_banner" : "1",
-"pengaturan_iklan_inter" : "4",
+"pengaturan_iklan_inter" : "2",
 "pengaturan_iklan_native" : "1",
 
-"inter_count" : 2,
+"inter_count" : 8,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -51,8 +51,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4290789,
-"unity_test" : false,
+"unity_id" : 4045251,
+"unity_test" : true,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
